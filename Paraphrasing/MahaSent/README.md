@@ -1,1 +1,1 @@
-# Contains codes for paraphrasing approach for MahaSent dataset.
+# Contains code for paraphrasing approach for MahaSent dataset.
