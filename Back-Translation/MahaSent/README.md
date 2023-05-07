@@ -1,1 +1,1 @@
-# Contains codes for back-translation approach for MahaSent dataset.
+# Contains code for back-translation approach for MahaSent dataset.
